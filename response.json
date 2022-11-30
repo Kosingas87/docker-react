@@ -1,0 +1,107 @@
+{
+    "wagerInfo": {
+      "gameId": "POWERBALL",
+      "drawId": "362",
+      "drawingTime": "2022-11-10T12:10:00Z",
+      "serialId": "01417792896040001366",
+      "ownerId": "1-10601",
+      "price": 2,
+      "drawCount": 1,
+      "buyMethod": "SINGLE",
+      "fractionShares": 0,
+      "fractionTotalShares": 0,
+      "bought": {
+        "date": "2022-11-09T13:20:05Z",
+        "reference": "01417792896040001366.BUY",
+        "origin": "wallet"
+      },
+      "status": "APPROVED",
+      "wagerData": {
+        "prizeMultiplier": false,
+        "doublePlay": true,
+        "rows": [
+          {
+            "primaryNumbers": [
+              7,
+              40,
+              47,
+              1,
+              61
+            ],
+            "secondaryNumbers": [
+              22
+            ]
+          }
+        ],
+        "rowCount": 1
+      }
+    },
+    "addonWagers": [
+      {
+        "wagerInfo": {
+          "gameId": "PB-DOUBLE-PLAY",
+          "drawId": "359",
+          "drawingTime": "2022-11-10T12:15:00Z",
+          "serialId": "06417792896040001803",
+          "ownerId": "1-10601",
+          "price": 1,
+          "drawCount": 1,
+          "buyMethod": "SINGLE",
+          "fractionShares": 0,
+          "fractionTotalShares": 0,
+          "bought": {
+            "date": "2022-11-09T13:20:05Z",
+            "reference": "01417792896040001366.BUY",
+            "origin": "wallet"
+          },
+          "status": "APPROVED",
+          "wagerData": {
+            "prizeMultiplier": false,
+            "doublePlay": false,
+            "rows": [
+              {
+                "primaryNumbers": [
+                  7,
+                  40,
+                  47,
+                  1,
+                  61
+                ],
+                "secondaryNumbers": [
+                  22
+                ]
+              }
+            ],
+            "rowCount": 1
+          }
+        },
+        "addonWagers": [],
+        "totalPrice": 1,
+        "totalPrize": 0,
+        "createdContext": {
+          "request": {
+            "channel": "WEB",
+            "remoteAddress": "10.32.43.5",
+            "requestId": "3a5c8512-bdf1-4a38-b6b8-62889f70a147",
+            "batchId": "857c8bfe-50bb-43a3-8db4-5b2e1a85c956"
+          },
+          "user": {
+            "userId": "1-10601"
+          }
+        }
+      }
+    ],
+    "totalPrice": 3,
+    "totalPrize": 0,
+    "createdContext": {
+      "request": {
+        "channel": "WEB",
+        "remoteAddress": "10.32.43.5",
+        "requestId": "3a5c8512-bdf1-4a38-b6b8-62889f70a147",
+        "batchId": "857c8bfe-50bb-43a3-8db4-5b2e1a85c956"
+      },
+      "user": {
+        "userId": "1-10601"
+      }
+    }
+  }
